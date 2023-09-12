@@ -10,7 +10,7 @@ Link: https://gabieusa.github.io/uniasselvi.trabalho/
 
 ### Barbearia GGR
 
-<img src="https://github.com/gabieusa/uniasselvi.trabalho/blob/master/logo.png"  width="300" height="200"/>
+<img src="https://github.com/gabieusa/uniasselvi.trabalho/blob/master/logo.png"  width="100" height="50"/>
 
 
 <div>
